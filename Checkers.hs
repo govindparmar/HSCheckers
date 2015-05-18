@@ -1,7 +1,3 @@
-
-
--- This is meant to be *compiled* into an executable; *not* interpreted!
-
 -- Required stuff (monads, set functiosn, list functions etc).
 import System.IO
 import Data.Set as Set
